@@ -1,9 +1,9 @@
 - [] Text
-- [] Heading
-- [] Box
-- [] Button
-- [] TextInput
-- [] TextArea
-- [] Checkbox
-- [] Avatar
-- [] MultStep
+- [ ] Heading
+- [ ] Box
+- [ ] Button
+- [ ] TextInput
+- [ ] TextArea
+- [ ] Checkbox
+- [ ] Avatar
+- [ ] MultStep
