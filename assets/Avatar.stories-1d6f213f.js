@@ -1,0 +1,2 @@
+import{A as t}from"./index-e55e42d5.js";import"./index-ed7d63ce.js";import"./iframe-5f35f999.js";import"./index-dc49f8fc.js";import"./jsx-runtime-a9addcfa.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/LuizHenriqueMartarelli.png",alt:"Luiz Henrique"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-1d6f213f.js.map
